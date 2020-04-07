@@ -3,5 +3,5 @@
 #This is my first script
 echo "this is running in a build step"
 echo "this is a param "$PASSED""
-num=$(($FIRSTNUMBER + $SECONDNUMBER));;;;;
+num=$(($FIRSTNUMBER + $SECONDNUMBER))
 echo "$num"
